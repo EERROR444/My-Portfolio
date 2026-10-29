@@ -580,7 +580,7 @@ const projectData = {
         </div>
       </div>
     `,
-    github: "https://github.com/Aryan-demo",
+    github: "https://github.com/EERROR444",
     hasCanvas: true
   },
   censor: {
@@ -602,7 +602,7 @@ const projectData = {
         </div>
       </div>
     `,
-    github: "https://github.com/Aryan-demo",
+    github: "https://github.com/EERROR444",
     hasCanvas: false
   },
   backend: {
@@ -624,7 +624,7 @@ const projectData = {
         </div>
       </div>
     `,
-    github: "https://github.com/Aryan-demo",
+    github: "https://github.com/EERROR444",
     hasCanvas: false
   }
 };
