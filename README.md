@@ -38,7 +38,7 @@ portfolio/
 ## 🚀 How to Run Locally
 
 ### Option 1: Direct Double Click
-Simply double-click [`index.html`](file:///d:/PROJECTS/portfolio/index.html) to open it in Chrome, Edge, or any web browser!
+Simply double-click [`index.html`](file:///d:/PROJECTS/My-Portfolio/index.html) to open it in Chrome, Edge, or any web browser!
 
 ### Option 2: Using the Python Server
 Open terminal in `d:\PROJECTS\portfolio` and run:
